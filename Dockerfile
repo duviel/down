@@ -8,4 +8,4 @@ WORKDIR /dl
 ADD dlfile ./dlfile
 
 RUN /bin/bash ./dlfile ; \
-    megacopy --no-progress -u glg8505@gmail.com -p Togtojononna1* --local /dl --remote /Root/down
+    megacopy --no-progress -u duvrod@gmail.com -p winner*-1515 --local /dl --remote /Root/down
