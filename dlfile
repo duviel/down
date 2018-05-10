@@ -15,6 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors \
-https://youtu.be/m0eZcfLHQyg
+git clone https://github.com/jhipster/jhipster-registry.git
 
