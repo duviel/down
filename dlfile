@@ -15,5 +15,7 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors \
-https://www.youtube.com/watch?v=k8wX7Jp86OI
+#youtube-dl --no-progress --quiet --ignore-errors \
+#https://www.youtube.com/watch?v=k8wX7Jp86OI
+
+wget http://gitlab.bluebookehr.com/team2/bluebook/repository/master/archive.zip
