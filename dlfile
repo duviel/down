@@ -16,4 +16,6 @@
 #[videos url]
 
 youtube-dl --no-progress --quiet --ignore-errors \
-https://www.youtube.com/watch?v=-VQ_SVkaXbs
+https://www.youtube.com/embed/AdddRkjwMDU \
+https://www.youtube.com/embed/43j6h3oCm0U \
+https://www.youtube.com/embed/VPyBuNLpt4U
