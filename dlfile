@@ -16,13 +16,4 @@
 #[videos url]
 
 youtube-dl --no-progress --quiet --ignore-errors \
-https://www.youtube.com/embed/xTlNMmZKwpA \
-https://www.youtube.com/embed/sGIm0-dQd8M \
-https://www.youtube.com/embed/zEf423kYfqk \
-https://www.youtube.com/embed/9jI-z9QN6g8 \
-https://www.youtube.com/embed/8-mloCL49vs \
-https://www.youtube.com/embed/_I_D_8Z4sJE \
-https://www.youtube.com/embed/LryQJ25CnKU \
-https://www.youtube.com/embed/V15BYnSr0P8 \
-https://www.youtube.com/embed/V15BYnSr0P8 \
-https://www.youtube.com/embed/qqqMyxv5al4
+https://www.youtube.com/embed/0cMifDh5Nw4
