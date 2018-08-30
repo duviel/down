@@ -1,5 +1,5 @@
 #node.js version
-#wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent http://downloads.dell.com/FOLDER03169873M/1/Network_Driver_CR72P_WN32_10.0.0.318_A00.EXE
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent http://downloads.dell.com/FOLDER03169873M/1/Network_Driver_CR72P_WN32_10.0.0.318_A00.EXE
 
 #para descargar playlist
 #youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
@@ -15,5 +15,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors \
-www.youtube.com/watch?v=4Sckymac0YI
+#youtube-dl --no-progress --quiet --ignore-errors \
+#www.youtube.com/watch?v=4Sckymac0YI
