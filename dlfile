@@ -1,5 +1,21 @@
 #node.js version
-wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent http://downloads.dell.com/FOLDER03169873M/1/Network_Driver_CR72P_WN32_10.0.0.318_A00.EXE
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/share/e8f540b87eefab7ca65cf25ab135eadc.zip
+
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/netcard/atheros_ar813x_ar815x_ar816x_v2.1.0.21_whql.zip
+
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/share/c673776eb490074c7787028ab87d70f5.zip
+
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/misc/INF_allOS_9.4.0.1027.exe
+
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/share/a3581f02746fe32d2b353c7d4c19dce8.zip
+
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/wireless/qualcomm_atheros_bigfootnetworks_killer_6.1.0.590_win7_8_64bit.zip
+
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/share/d89535d634ab7894dd4643b8d8a774f6.zip
+
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/share/a731416f325013ee75dabb2e3a863929.zip
+
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/share/a731416f325013ee75dabb2e3a863929.zip
 
 #para descargar playlist
 #youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
