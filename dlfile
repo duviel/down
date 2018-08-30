@@ -1,5 +1,5 @@
 #node.js version
-#wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://dw37.uptodown.com/dwn/9reV_HWZZWXIUgWRSshugkASR2Mwr80vEr55leXZ0HgcO3bTe2OrpHaSHemSIPAbgdJeaWN-PJOYK0A9PYEy2pYAltuv5H9XG3AXX0HoSVUGRKVJWwfGfYmLjTLs78eY/VyZwWlphZ-MB-5IyvSkvq7yYfwIRLWHbze1lc5mK_AzHx_yZyAHgjYTadDk8o9tAW8EofShz3FCBVGBebWttG-P4QFH0Fy7ibooPjfCjGjwNztr_mS3Bo87duhkULS8N/kaOKm2-_1kq6DVkI7_mRV6-MpJ-OP5RU-ZYdXirHW90eFfM0eyZC1bHxM7GzRdtBR3lzbILykp3eSPjCJGeM6gF4Rgh4XYFRehW4591BZMBC4ArjbzpcaT6lDJ91RvuK/MzjCb8zG3NhcbZyCIv0S0GOSnIK-CfDFQJ05M_YVHe8=/upwork-v4-19-2-0.apk
+#wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent http://downloads.dell.com/FOLDER03169873M/1/Network_Driver_CR72P_WN32_10.0.0.318_A00.EXE
 
 #para descargar playlist
 #youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
