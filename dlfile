@@ -1,5 +1,24 @@
 #node.js version
-#wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent https://www.driverscape.com/files/share/e8f540b87eefab7ca65cf25ab135eadc.zip
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent \
+http://downloads.dell.com/FOLDER01745501M/1/5460_Audio_Driver_WXTYX_WN_6.24.15.4_A00.EXE \
+http://downloads.dell.com/FOLDER01798816M/1/3360A18.exe \
+http://downloads.dell.com/FOLDER03351919M/14/CardReader_Driver_Realtek_A00_Win1064_Win1032-Setup_ZPE.exe \
+http://downloads.dell.com/FOLDER03139228M/1/Chipset_Driver_2WGG0_WN32_10.1.1.7_A00.EXE \
+http://downloads.dell.com/FOLDER01740253M/1/Chipset_Driver_CN7W1_WN_9.5.14.1724_A01.EXE \
+http://downloads.dell.com/FOLDER00709431M/11/Chipset_Intel_A00_Setup-X685F_ZPE.exe \
+http://downloads.dell.com/FOLDER03154023M/1/Communications_Driver_CNYGV_WN32_8.2.5.0_A00.EXE \
+http://downloads.dell.com/FOLDER03483223M/1/Network_Driver_342TP_WN32_7.35.333.0_A01.EXE \
+http://downloads.dell.com/FOLDER03169873M/1/Network_Driver_CR72P_WN32_10.0.0.318_A00.EXE \
+http://downloads.dell.com/FOLDER03480369M/1/Video_Driver_YFH2F_WN32_10.18.10.4338_A01.EXE \
+http://downloads.dell.com/FOLDER01745501M/1/5460_Audio_Driver_WXTYX_WN_6.24.15.4_A00.EXE \
+http://downloads.dell.com/FOLDER01798816M/1/3360A18.exe \
+http://downloads.dell.com/FOLDER03351919M/14/CardReader_Driver_Realtek_A00_Win1064_Win1032-Setup_ZPE.exe \
+http://downloads.dell.com/FOLDER03139228M/1/Chipset_Driver_2WGG0_WN32_10.1.1.7_A00.EXE \
+http://downloads.dell.com/FOLDER01740253M/1/Chipset_Driver_CN7W1_WN_9.5.14.1724_A01.EXE \
+http://downloads.dell.com/FOLDER00709431M/11/Chipset_Intel_A00_Setup-X685F_ZPE.exe \
+http://downloads.dell.com/FOLDER03154023M/1/Communications_Driver_CNYGV_WN32_8.2.5.0_A00.EXE \
+http://downloads.dell.com/FOLDER03483223M/1/Network_Driver_342TP_WN32_7.35.333.0_A01.EXE \
+http://downloads.dell.com/FOLDER03169873M/1/Network_Driver_CR72P_WN32_10.0.0.318_A00.EXE
 
 #para descargar playlist
 #youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
