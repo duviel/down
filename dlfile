@@ -1,6 +1,6 @@
 #node.js version
-#wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent \
-#http://downloads.dell.com/FOLDER01745501M/1/5460_Audio_Driver_WXTYX_WN_6.24.15.4_A00.EXE
+wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent \
+http://www.subdivx.com/sub8/548373.rar
 
 #para descargar playlist
 #youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
@@ -16,5 +16,5 @@
 #[videos url] \
 #[videos url]
 
-youtube-dl --no-progress --quiet --ignore-errors \
-https://www.youtube.com/watch?v=tYDmvYhQ6wI
+#youtube-dl --no-progress --quiet --ignore-errors \
+#https://www.youtube.com/watch?v=tYDmvYhQ6wI
