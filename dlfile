@@ -16,5 +16,11 @@ http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/wind
 #[videos url] \
 #[videos url]
 
-#youtube-dl --no-progress --quiet --ignore-errors \
-#https://www.youtube.com/watch?v=tYDmvYhQ6wI
+youtube-dl --no-progress --quiet --ignore-errors \
+https://www.youtube.com/watch?v=XcVsXU2gZ3c \
+https://www.youtube.com/watch?v=VI1nqB5IMN0 \
+https://www.youtube.com/watch?v=acTaveTBGy8 \
+https://www.youtube.com/watch?v=WOh0isGJsiE \
+https://www.youtube.com/watch?v=deURP0Fkpvw \
+https://www.youtube.com/watch?v=acTaveTBGy8 \
+https://www.youtube.com/watch?v=tf7bzwyBULA
