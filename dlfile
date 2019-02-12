@@ -1,6 +1,6 @@
 #node.js version
-wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent \
-http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4032693-x86_35e8721cc7a23cc9c77736de4e67796fda97fd71.msu
+#wget -r --no-parent --convert-links --page-requisites --reject "index.html*" -e robots=off --output-file=wget.log --no-parent \
+#http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4032693-x86_35e8721cc7a23cc9c77736de4e67796fda97fd71.msu
 
 #para descargar playlist
 #youtube-dl --no-progress --quiet --ignore-errors --output '%(playlist_index)s - %(title)s.%(ext)s' \
